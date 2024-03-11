@@ -1,1 +1,2 @@
 appName: user
+params: "prod.user.redis_host prod.user.documentdb prod.user.mongodb_endpoint prod.user.mongo_url"
